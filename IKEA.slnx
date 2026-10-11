@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="TND.Markers.Runtime.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="TND.Markers.Editor.csproj" />
+  <Project Path="tnd.markers.demo.csproj" />
+</Solution>
